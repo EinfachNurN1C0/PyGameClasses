@@ -1,3 +1,5 @@
+# --- Made by https://github.com/EinfachNurN1C0 ---
+
 # --- Imports all necessary modules: ---
 import pygame
 
