@@ -26,14 +26,14 @@
 
 ```python
 # Syntax: ButtonName = Button_Class.Button(Button Width, Button Height, Link to an Button Image, Button Scale)
-# z.B.
+# as an example:
 
 BUTTON_IMAGE = pygame.image.load(os.path.join('Assets', 'Buttons', 'Button_Image.png'))
 BUTTON = Button_Class.Button(250, 250, BUTTON_IMAGE, 1)
 BUTTON.draw(Definition of the window)
 
 # Check if a function has been clicked:
-# z.B.
+# as an example:
 
 if BUTTON.draw(Definition of the window): #<-- If BUTTON is pressed
     print("Hello World")
