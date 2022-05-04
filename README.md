@@ -25,7 +25,7 @@
 [Button Class](https://github.com/EinfachNurN1C0/PyGameClasses/blob/main/Button_Class.py)
 
 ```python
-# Syntax: ButtonName = Button_Class.Button(Button Width, Button Height, Link to an Button Image, Button Scale)
+# Syntax: ButtonName = Button_Class.Button(Button x position, Button y position, Link to an Button Image, Button Scale)
 # as an example:
 
 BUTTON_IMAGE = pygame.image.load(os.path.join('Assets', 'Buttons', 'Button_Image.png'))
