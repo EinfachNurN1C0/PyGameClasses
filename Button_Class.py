@@ -4,7 +4,7 @@
 import pygame
 
 # --- Defines the button class requirements and syntax: ---
-# --- ButtonName = Button_Class.Button(Button Width, Button Height, Link to an Button Image, Button Scale)
+# --- ButtonName = Button_Class.Button(Button x position, Button y position, Link to an Button Image, Button Scale)
 # --- as an example ---
 # --- BUTTON_IMAGE = pygame.image.load(os.path.join('Assets', 'Buttons', 'Button_Image.png'))
 # --- BUTTON = Button_Class.Button(250, 250, BUTTON_IMAGE, 1)
